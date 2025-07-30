@@ -1,0 +1,9 @@
+Observations from Titanic Dataset:
+
+1. The overall survival rate was approximately 38%.
+2. Females had a much higher survival rate compared to males.
+3. Passengers in the 1st class had a significantly higher chance of survival than those in 2nd or 3rd class.
+4. Younger passengers (children) were more likely to survive.
+5. Most passengers embarked from the port 'S' (Southampton).
+6. Missing values in 'Age' and 'Embarked' were handled appropriately, and the 'Cabin' column was dropped due to excessive missing data.
+7. The dataset shows that gender, passenger class, and age were important factors influencing survival.

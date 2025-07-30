@@ -1,0 +1,28 @@
+Bank Marketing Dataset - EDA Observations
+
+1. Overall Subscription Rate:
+   - Only around 11% of clients subscribed to a term deposit.
+
+2. Jobs with Higher Subscription Rates:
+   - Retired clients: ~25% subscribed
+   - Students: ~22% subscribed
+   - Unemployed: higher likelihood than employed
+
+3. Marital Status:
+   - Single clients subscribed more compared to married/divorced.
+
+4. Education Level:
+   - Tertiary education clients had a better response rate than basic education.
+
+5. Loan Status:
+   - Clients without housing or personal loans were more likely to subscribe.
+
+6. Duration:
+   - Longer call durations led to higher subscription rates (note: this is known after the outcome).
+
+7. Correlation Insights:
+   - 'euribor3m', 'nr.employed', and 'emp.var.rate' are positively correlated.
+   - Target variable ('y') is strongly correlated with 'duration'.
+
+8. Recommendation:
+   - Focus future campaigns on students, retirees, and clients without loans.
